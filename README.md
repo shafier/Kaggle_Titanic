@@ -15,3 +15,6 @@ I learned in my experiences, the best way to learn is to do it. Nevertheless, th
 <img width="666" alt="Plot of Fare between Pclass with regards to Survival" src="https://user-images.githubusercontent.com/48793594/116999068-08c4e680-acd7-11eb-904c-8cd3ee60ba7b.png">
 
 I hope this helps you in your journey to comprehend the Data Science field, and Machine Learning models.
+
+View in Google Colaboration (Colab)'s Jupyter notebook https://colab.research.google.com/github/shafier/Kaggle_Titanic/blob/main/understanding-data-science-on-titanic-01.ipynb
+
