@@ -16,5 +16,5 @@ I learned in my experiences, the best way to learn is to do it. Nevertheless, th
 
 I hope this helps you in your journey to comprehend the Data Science field, and Machine Learning models.
 
-View in Google Colaboration (Colab)'s Jupyter notebook https://colab.research.google.com/github/shafier/Kaggle_Titanic/blob/main/understanding-data-science-on-titanic-01.ipynb
+View in Google Colaboratory (Colab)'s Jupyter notebook https://colab.research.google.com/github/shafier/Kaggle_Titanic/blob/main/understanding-data-science-on-titanic-01.ipynb
 
