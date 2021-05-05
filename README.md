@@ -1,11 +1,12 @@
 # Kaggle_Titanic
 Reader's level = Novice level in the Data Science field, and Machine Learning models.
 
-I am a beginner on the Data Science field, and Machine Learning models.
-This shows my first work on these intriguing subjects. 
-The aim of this work is to get understanding of those both topics.
+## My Background
+* I am a beginner on the Data Science field, and Machine Learning models.
+* This shows my first work on these intriguing subjects. 
+* The aim of this work is to get understanding of those both topics.
 
-Why did I do this? 
+## Why did I do this? 
 
 There are heaps of materials out there in the internet, and I read some of them with the goal to gain understanding what they are. 
 However I became confused and frustrated. This is because most of them only show the first "layer" of the 2 topics.   
@@ -16,5 +17,5 @@ I learned in my experiences, the best way to learn is to do it. Nevertheless, th
 
 I hope this helps you in your journey to comprehend the Data Science field, and Machine Learning models.
 
-View in Google Colaboratory (Colab)'s Jupyter notebook https://colab.research.google.com/github/shafier/Kaggle_Titanic/blob/main/understanding-data-science-on-titanic-01.ipynb
+View in Google Colaboratory (Colab)'s Jupyter notebook [Google Colab] (https://colab.research.google.com/github/shafier/Kaggle_Titanic/blob/main/understanding-data-science-on-titanic-01.ipynb)
 
