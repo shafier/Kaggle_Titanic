@@ -25,3 +25,7 @@ Yes, you have to do it! I will stay away from using Google Colab as much as I ca
 * To work in Chrome, follow this link: https://stackoverflow.com/questions/48420759/upload-local-files-using-google-colab
 
 Untick "Disable third-party cookies"  
+
+Relevant links for the analysis:
+* In Kaggle: https://www.kaggle.com/shafierahim/understanding-data-science-on-titanic-01
+* My blog: https://workingaroundtheworld.wordpress.com/2021/05/13/understanding-data-science-part-01/
