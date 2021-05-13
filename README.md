@@ -14,7 +14,7 @@ There are heaps of materials out there in the internet, and I read some of them 
 
 I hope this helps you in your journey to comprehend the Data Science field, and Machine Learning models.
 
-View in Google Colaboratory (Colab)'s Jupyter notebook [Open in Google Colab](https://colab.research.google.com/github/shafier/Kaggle_Titanic/blob/main/understanding-data-science-on-titanic-01_Colab.ipynb)
+View in Google Colaboratory (Colab)'s Jupyter notebook [Open in Google Colab](https://colab.research.google.com/github/shafier/Kaggle_Titanic/blob/main/understanding-data-science-on-titanic-01.ipynb)
 
 Note:
 * To get Google Colab to work on Firefox, you need to disable the "Enhanced Tracking" button 
